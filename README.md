@@ -72,3 +72,6 @@ Online version of the course is run regularly in [FutureLearn](https://www.futur
  - [Two dimensional heat equation](numpy/heat-equation)
  - [Parallel heat equation](mpi/heat-equation)
 
+
+___
+Attended on Apr 27, 2020
